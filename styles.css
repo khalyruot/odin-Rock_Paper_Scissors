@@ -1,0 +1,19 @@
+.welcome{
+    height: 200px;
+    background-color: rgb(223, 223, 237);
+}
+
+.game_desc{
+    height: 200px;
+    background-color: rgb(190, 245, 245);
+}
+
+.game_button{
+    height: 200px;
+    background-color: rgb(245, 236, 190);
+}
+
+.victory{
+    height: 200px;
+    background-color: rgb(190, 245, 241);
+}
