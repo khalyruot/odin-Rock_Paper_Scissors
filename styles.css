@@ -9,7 +9,7 @@
 }
 
 .game_desc{
-    height: 350px;
+    height: 200px;
     background-color: rgb(190, 245, 245);
     font-size: 18px;
     font-weight: lighter;
@@ -31,19 +31,19 @@
     padding-right: 100px;
 }
 
-.rock_button{
-    height: 50px;
-    width: 70px;
+#rock_button{
+    height: 80px;
+    width: 120px;
 }
 
-.paper_button{
-    height: 50px;
-    width: 70px;
+#paper_button{
+    height: 80px;
+    width: 120px;
 }
 
-.ciscor_button{
-    height: 50px;
-    width: 70px;
+#ciscor_button{
+    height: 80px;
+    width: 120px;
 }
 .victory{
     height: 200px;
