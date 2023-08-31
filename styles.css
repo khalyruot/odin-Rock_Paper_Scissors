@@ -1,18 +1,50 @@
 .welcome{
-    height: 200px;
+    height: 80px;
     background-color: rgb(223, 223, 237);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 32px;
 }
 
 .game_desc{
-    height: 200px;
+    height: 350px;
     background-color: rgb(190, 245, 245);
+    font-size: 18px;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: baseline;
+    padding: 20px;
 }
 
 .game_button{
     height: 200px;
     background-color: rgb(245, 236, 190);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
+.rock_button{
+    height: 50px;
+    width: 70px;
+}
+
+.paper_button{
+    height: 50px;
+    width: 70px;
+}
+
+.ciscor_button{
+    height: 50px;
+    width: 70px;
+}
 .victory{
     height: 200px;
     background-color: rgb(190, 245, 241);
