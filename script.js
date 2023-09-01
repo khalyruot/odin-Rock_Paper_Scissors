@@ -11,7 +11,7 @@ paper_button.addEventListener("click", function(){
 });
 
 ciscor_button.addEventListener("click", function(){
-  alert(ciscor);
+  alert("ciscor");
 });
 
 function getComputerChoice(){
