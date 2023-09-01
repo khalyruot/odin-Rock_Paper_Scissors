@@ -3,15 +3,15 @@ const paper_button = document.getElementById("paper_button");
 const ciscor_button = document.getElementById("ciscor_button");
 
 rock_button.addEventListener("click", function(){
-  console.log("Rock");
+  alert("Rock");
 });
 
 paper_button.addEventListener("click", function(){
-  console.log("paper");
+  alert("paper");
 });
 
 ciscor_button.addEventListener("click", function(){
-  console.log(ciscor);
+  alert(ciscor);
 });
 
 function getComputerChoice(){
