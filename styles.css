@@ -46,6 +46,11 @@
     width: 120px;
 }
 .victory{
-    height: 200px;
-    background-color: rgb(190, 245, 241);
+    height: 80px;
+    background-color: rgb(223, 223, 237);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 32px;
 }
